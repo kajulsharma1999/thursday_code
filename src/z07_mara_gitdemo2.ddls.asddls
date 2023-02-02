@@ -9,5 +9,6 @@ define view z07_mara_gitdemo2 as select from mara {
     matkl,
     aenam,
     aeszn,
-    ersda
+    ersda,
+    lvorm
 }
